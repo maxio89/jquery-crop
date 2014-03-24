@@ -1,0 +1,6 @@
+{
+    "name": "jquery-crop",
+    "main": [
+        "jquery-crop.js"
+    ]
+}
